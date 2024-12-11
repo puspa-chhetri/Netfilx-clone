@@ -8,7 +8,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-# Netflix Clone using HTML, CSS and React 
+# Netflix Clone using HTML, CSS and React. 
+# API - TMDB
+# For storing dat - Firestore Database
 # Here are the Screenshoots of page
 
 ![Screenshot 2024-12-11 163815](https://github.com/user-attachments/assets/8b6acdbe-693c-4727-ac60-b0b37522b69a)
